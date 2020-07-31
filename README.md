@@ -1,5 +1,3 @@
-# Fabian Cook
-
 Senior Software Developer
 
 Napier, New Zealand
