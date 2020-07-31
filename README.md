@@ -157,10 +157,13 @@ Full stack development role focused primarily on the .NET framework, working on 
 #### Projects
 
 - Customer user interface and components 
+
   _.NET, C#, ASP.NET, JavaScript, CSS, and MSSQL_
 - Customs shipping integration
+
   _.NET, C#, and MSSQL_
 - Onsite order processing and label printing
+
   _.NET, and WinForms_
 
 ### Sirtrack (2012), now Lotek
@@ -175,6 +178,7 @@ Android development role, focused on bluetooth communication with embedded devic
 #### Projects
 
 - In field download of tracking collar data
+
   _Android, Java, Bluetooth, USB Serial_
 
 ## Publications
