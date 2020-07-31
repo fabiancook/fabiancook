@@ -181,9 +181,7 @@ Android development role, focused on bluetooth communication with embedded devic
 
 ### Node.js Essentials
 
-_ISBN 13: 9781785284922_
-
-[packtpub.com/web-development/nodejs-essentials](https://packtpub.com/web-development/nodejs-essentials)
+_ISBN 13: 9781785284922, no longer in print_
 
 Node.js development book focusing on the fundamentals. Demonstrates how to use Express, Socket.IO, & MongoDB.
 
