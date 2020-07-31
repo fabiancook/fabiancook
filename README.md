@@ -169,6 +169,7 @@ Full stack development role focused primarily on the .NET framework, working on 
 ### Sirtrack (2012), now Lotek
 
 _Software Developer, Full Stack_
+
 [lotek.com](https://www.lotek.com/) 
 
 #### Summary 
