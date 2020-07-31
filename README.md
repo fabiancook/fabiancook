@@ -12,7 +12,7 @@ Napier, New Zealand
 
 ## Employment
 
-### CloudSwept (2018 - )
+### Cloudswept (2018 - )
 
 _Senior Software Developer, Full Stack, Primary: Backing Services_
 
