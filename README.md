@@ -4,7 +4,7 @@ Napier, New Zealand
 
 [hello@fabiancook.dev](mailto:hello@fabiancook.dev)
 
-[linkedin.com/in/fabian-cook/](https://https://www.linkedin.com/in/fabian-cook/)
+[linkedin.com/in/fabian-cook/](https://www.linkedin.com/in/fabian-cook/)
 
 [github.com/fabiancook](https://github.com/fabiancook)
 
