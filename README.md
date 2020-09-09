@@ -106,7 +106,7 @@ Full stack development role using Node.js, including development of multiple int
 
 #### Projects
 
-- Prequalification and Ordering Integration (Chorus Wireline, Chorus NGA, Unison, and )
+- Prequalification and Ordering Integration (Chorus Wireline, Chorus NGA, and Unison)
 
   _Node.js, Phantomjs, SOAP, and MongoDB_
 
