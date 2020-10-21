@@ -8,32 +8,6 @@ Napier, New Zealand
 
 [github.com/fabiancook](https://github.com/fabiancook)
 
-## Open Source
-
-### Joukou (2014)
-
-_Software Developer, Full Stack_
-
-[github.com/joukou](https://github.com/joukou )
-
-#### Summary
-
-Full stack development focused on deployment of a visual functional programming language or flow based programming (FBP) to the cloud. Used React rendering to SVG for the flow based programming interface and AngularJS for the wider application. All code for the Joukou project is freely available on GitHub (https://github.com/joukou).
-
-#### Projects
-
-- Flow based user Interface 
-
-  _CoffeeScript, Angular, React (0.x)_
-
-- Flow based programming protocol
-
-  _Node.js, Digital Ocean, CoffeeScript, Riak_
-
-- Docker node management service
-
-  _Node.js, Digital Ocean, CoffeeScript, Docker, Riak_
-
 ## Employment
 
 ### Cloudswept (2018 - 2020)
@@ -143,6 +117,30 @@ Full stack development role using Node.js, including development of multiple int
 - Order management
 
   _Node.js, Heroku, MongoDB, and Angular_
+
+### Joukou (2014)
+
+_Software Developer, Full Stack_
+
+[github.com/joukou](https://github.com/joukou )
+
+#### Summary
+
+Full stack development focused on deployment of a visual functional programming language or flow based programming (FBP) to the cloud. Used React rendering to SVG for the flow based programming interface and AngularJS for the wider application. All code for the Joukou project is freely available on GitHub (https://github.com/joukou).
+
+#### Projects
+
+- Flow based user Interface 
+
+  _CoffeeScript, Angular, React (0.x)_
+
+- Flow based programming protocol
+
+  _Node.js, Digital Ocean, CoffeeScript, Riak_
+
+- Docker node management service
+
+  _Node.js, Digital Ocean, CoffeeScript, Docker, Riak_
 
 ### Fastway Global (2012 - 2014), now Aramex
 
