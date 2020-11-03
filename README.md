@@ -4,7 +4,7 @@ Napier, New Zealand
 
 [hello@fabiancook.dev](mailto:hello@fabiancook.dev)
 
-[linkedin.com/in/fabian-cook/](https://www.linkedin.com/in/fabian-cook/)
+[linkedin.com/in/fabian-cook/](https://https://www.linkedin.com/in/fabian-cook/)
 
 [github.com/fabiancook](https://github.com/fabiancook)
 
@@ -188,3 +188,19 @@ _ISBN 13: 9781785284922, no longer in print_
 
 Node.js development book focusing on the fundamentals. Demonstrates how to use Express, Socket.IO, & MongoDB.
 
+## Other Contributions
+
+### Open Network
+
+[github.com/opennetwork](https://github.com/opennetwork)
+
+Open source software focused on peer to peer tooling
+
+- Software Developer
+
+### JavaScript New Zealand
+
+[javascript.org.nz/](https://javascript.org.nz/)
+
+- Society Treasurer, 2019 - 2020
+- Society President, 2020 - 
