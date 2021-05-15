@@ -1,4 +1,4 @@
-Senior Software Developer
+Senior Software Engineer
 
 Napier, New Zealand
 
@@ -9,6 +9,21 @@ Napier, New Zealand
 [github.com/fabiancook](https://github.com/fabiancook)
 
 ## Employment
+
+### Clearpoint (2020 - )
+
+#### Summary 
+
+Multi-domain Software Engineering 
+
+#### Contact Energy
+
+- Service onboarding tooling
+
+  _TypeScript, React_
+  
+- Pair mentoring
+- Frontend team leadership
 
 ### Cloudswept (2018 - 2020)
 
