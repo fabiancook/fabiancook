@@ -205,6 +205,14 @@ Node.js development book focusing on the fundamentals. Demonstrates how to use E
 
 ## Other Contributions
 
+### Virtual State
+
+[github.com/virtualstate](https://github.com/virtualstate)
+
+Open source software focused on developer experience
+
+- Software Developer
+
 ### Open Network
 
 [github.com/opennetwork](https://github.com/opennetwork)
