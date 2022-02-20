@@ -10,7 +10,13 @@ Napier, New Zealand
 
 ## Employment
 
-### Clearpoint (2020 - )
+### Dovetail (2022 - )
+
+#### Summary 
+
+Multi-domain Software Engineering 
+
+### Clearpoint (2021 - 2022)
 
 #### Summary 
 
