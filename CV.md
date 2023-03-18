@@ -10,17 +10,30 @@ Napier, New Zealand
 
 ## Employment
 
-### Dovetail (2022 - )
+### Datacom (2022 - )
 
 #### Summary 
 
-Multi-domain Software Engineering 
+Lead Solution Architect focused on Research & Analysis of a large scale multi-country system.
+
+### Dovetail (2022)
+
+#### Summary 
+
+Software Engineering focused on designing and developing a authorization rules engine.
+
+#### Authsignal
+
+[authsignal.com](https://www.authsignal.com/)
+
+- Node.js authorization rules engine
 
 ### Clearpoint (2021 - 2022)
 
 #### Summary 
 
-Multi-domain Software Engineering 
+Lead Front End Engineer role supporting teams working on React, and React Native codebases,
+transitioned to Senior Software Engineer widening view to include Node.js engineering. 
 
 #### Contact Energy
 
@@ -34,8 +47,6 @@ Multi-domain Software Engineering
 ### Cloudswept (2018 - 2020)
 
 _Senior Software Developer, Full Stack, Primary: Backing Services_
-
-[cloudswept.com](https://cloudswept.com )  
 
 #### Summary
 
