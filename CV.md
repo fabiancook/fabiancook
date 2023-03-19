@@ -72,6 +72,35 @@ An example of such step back is looking into [The KDL Document Language](https:/
 
 JSX may not be the correct publishing mechanism for all state, but the JSX model may be a good virtual state container to hold, label, and relate state. 
 
+### Flow based programming 
+
+Earlier on in my Open Source journey I worked with a startup called [Joukou](https://github.com/joukou/joukou#joukou)
+
+> Joukou is a high level visual programming language for data that can be deployed to a cloud environment and managed remotely via a web interface. Joukou merges flow-based programming with BPMN 2.0.
+
+Through this work, I was able to explore tools such as [fleet](https://github.com/coreos/fleet), [Docker](https://www.docker.com/), [CoreOS](https://en.wikipedia.org/wiki/Container_Linux), and expand on [flow based programming protocols](https://github.com/joukou/joukou-flow/tree/develop/src/protocols). 
+
+Part of the overall solution was an orchestration mechanim called the [conductor](https://github.com/joukou/joukou-conductor-fleet/tree/develop) which was used to  maintain units of work to be ran within docker. 
+
+### Communication & Networking 
+
+Prior to entering the world of software engineering professionally I had an interest in technology and electronics. 
+
+My earliest experience with programming was with BASIC, working with [PICAXE 08 Microcontroller](https://picaxe.com/hardware/picaxe-chips/picaxe-08m2-microcontroller/)
+
+One set of components I had good fun with was working with any kind of transmit & receiver devices, or the "more fancy" bluetooth transmitting devices (These small microcontrollers work great with them over serial!). 
+
+I had entered electronics competitions with the projects I had worked on throughout these years. 
+
+Around about the same time I was learning about networking, having access to a complete Cisco network lab and a great mentor I learned a lot about general networking systems, including configuring devices and the theory behind it. 
+
+Which leads to my first introduction to professional software, which nicely fits into the communication theme, but slightly different. 
+
+My first role, I was tasked with developing an Android Application that could be used in remote parts of the world, such as remote parts of the Sahara, or a forest, where the application would be used offline to capture information from tracking devices placed on animals for research, such as understanding their migration patterns. 
+
+The application utilised serial communication similar to the microcontrollers I had already had experience with. 
+
+Once the researcher was within range of an internet connection, the data could be uploaded to the primary collection services for analysis and processing, enabling a true sneakernet research effort. 
 
 -------------
 
