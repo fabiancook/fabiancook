@@ -18,10 +18,10 @@ that implements the newest [WICG proposal for web navigation](https://github.com
 
 > The new navigation API provides a new interface for navigations and session history, with a focus on single-page application navigations.
 
-A native implementation of the API is available in Chrome browsers today, but with this TypeScript implementation it is available in all modern JavaScript runtimes, such as Deno, Bun, Node.js, workerd, and available as a polyfill for browsers. 
+A native implementation of the API is available in Chrome browsers today, but with this TypeScript implementation it is available in all modern JavaScript runtimes, such as Deno, Bun, Node.js, workerd, and as a polyfill for browsers. 
 
-The API has been implemented to not integrate with browser-like APIs by default, it allows developers to create a completely 
-decoupled navigation instance similar what is available in a browser. 
+The API has been implemented in a way that allows for no integration with browser-like APIs by default, it allows developers to create a completely 
+decoupled navigation experience similar what is available in a browser. 
 
 Decoupled navigation can be used to build navigation experiences similar to what is available in browsers, outside of a browser
 runtime. 
