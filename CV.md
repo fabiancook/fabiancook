@@ -1,6 +1,6 @@
 I like writing software! 
 
-I have recently been employeed as a Solutions Architect, or as a Software Engineer.  
+I have recently been employeed as a Solutions Architect, and as a Software Engineer.  
 
 I enjoy exploring domains far and wide, but I like to get into the patterns too!  
 
