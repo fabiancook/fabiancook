@@ -4,7 +4,7 @@ I have recently been employeed as a Solutions Architect, or as a Software Engine
 
 I enjoy exploring domains far and wide, but I like to get into the patterns too!  
 
-Outside of my daily work, you will probably find me working on some software tooling for fun, 
+Outside of my daily work, you will probably find me working on some software tooling, 
 I mostly publish my recent work as Open Source to https://github.com/fabiancook or https://github.com/virtualstate
 
 ## Technical Things
@@ -29,7 +29,7 @@ runtime.
 
 This work included [supporting tests](https://github.com/virtualstate/navigation/blob/17132f9caabf98ee76fad459841e9c649346921b/src/tests/examples/readme-detailed.ts#L795-L808) that matches the [Navigation API Spec examples](https://github.com/WICG/navigation-api#example-using-info) as well as an attempt at using [externally published Web Platform Tests](https://github.com/web-platform-tests/wpt/tree/master/navigation-api) and running them in [GitHub Actions](https://github.com/virtualstate/navigation/actions/runs/4436327836/jobs/7784620051#step:6:2175) 
 
-### Async Sequences, Promises, and related things. 
+### Sequences related things. 
 
 I have been exploring the world of sequences for a while, initially diving into [RDF](https://www.w3.org/RDF/), [Linked Data](https://www.w3.org/standards/semanticweb/data), and [SOLID](https://solidproject.org/). 
 
