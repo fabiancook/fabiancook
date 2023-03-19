@@ -54,6 +54,25 @@ There is a [synchronous version](https://github.com/opennetwork/iterable/blob/ne
 
 This work included [supporting](https://github.com/opennetwork/iterable/blob/next/src/tests/tc39/sync.ts) [tests](https://github.com/opennetwork/iterable/blob/next/src/tests/tc39/async.ts) that matches [the TC39 Spec examples](https://github.com/opennetwork/iterable/blob/next/src/tests/tc39/async.ts)
 
+### JSX, Virtual State, Graphs, and KDL 
+
+Through exploration of sequences I found myself extending the synchronous JSX model that is common place today, and including support for asynchronous sequences to be used alongside, providing a consistent interface between the two. 
+
+With trial, error, and time, I had developed functionality to stepwise through sets of asynchronous sequences, and combine them into a single union of their values. This allowed for the further development of the JSX model, where I have made use of it to concatenate JSX fragments, components, or sequences, without needing to directly consider the individual state of each. 
+
+Using this functionality and the JSX model, I produced a wide [range of utility](https://github.com/virtualstate/focus) [functions](https://github.com/virtualstate/focus/blob/main/src/tests/access.tsx#L65) to work with JSX. 
+
+These utility functions lean on prior learning with sequences and includes support for [iterator-helper like functions](https://github.com/virtualstate/focus/blob/c1ca80f9cfd8304b592136514d2c8814ad5faa97/src/tests/access.tsx#L171-L183), this allows synchronous structuring of operations, but lazy execution once resolution is requested. 
+
+A further extension of the JSX model is possible by producing further utility like tools, without changing the underlying code, functionality, or model itself. 
+
+By stepping back from the world of visual user interfaces, and instead allowing JSX to represent any state, we can make use of JSX to produce graphs of both expected operations, and output state. 
+
+An example of such step back is looking into [The KDL Document Language](https://github.com/kdl-org/kdl) and its similarity to JSX, so much so, that it is possible to make use of the [KDL Query Language](https://github.com/virtualstate/kdl#preparing-queries) to query JSX graphs, which shows its power when [non UI state](https://github.com/virtualstate/kdl/blob/main/src/tests/resources/setup/package.tsx#L1)
+
+JSX may not be the correct publishing mechanism for all state, but the JSX model may be a good virtual state container to hold, label, and relate state. 
+
+
 -------------
 
 Napier, New Zealand
