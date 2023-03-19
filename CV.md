@@ -23,9 +23,6 @@ A native implementation of the API is available in Chrome browsers today, but wi
 The API has been implemented in a way that allows for no integration with browser-like APIs by default, it allows developers to create a completely 
 decoupled navigation experience similar what is available in a browser. 
 
-Decoupled navigation can be used to build navigation experiences similar to what is available in browsers, outside of a browser
-runtime. 
-
 This work included [supporting tests](https://github.com/virtualstate/navigation/blob/17132f9caabf98ee76fad459841e9c649346921b/src/tests/examples/readme-detailed.ts#L795-L808) that matches the [Navigation API Spec examples](https://github.com/WICG/navigation-api#example-using-info) as well as an attempt at using [externally published Web Platform Tests](https://github.com/web-platform-tests/wpt/tree/master/navigation-api) and running them in [GitHub Actions](https://github.com/virtualstate/navigation/actions/runs/4436327836/jobs/7784620051#step:6:2175) 
 
 ### Sequences related things. 
