@@ -110,7 +110,7 @@ Napier, New Zealand
 
 ## Employment
 
-### Datacom (2022 - )
+### Datacom (2022 - 2023)
 
 #### Summary 
 
