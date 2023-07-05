@@ -110,6 +110,10 @@ Napier, New Zealand
 
 ## Employment
 
+### Uncommon Purpose (2023 - )
+
+App Lead
+
 ### Datacom (2022 - 2023)
 
 #### Summary 
